@@ -70,8 +70,8 @@ Si quieres desarrollar competencias en python dispones de estos recursos:
 * [Python Tutor](http://pythontutor.com/): Le permite visualizar la ejecución del código Python.
 
 -----
-<div style="display: flex; align-items: center;">
-    <a target="_blank" href="https://deepnote.com/workspace/Introduction-to-the-Data-Analytics-Concept-7ae93ff6-e4b0-4256-b2f1-850f4e8b66c0/project/Ulises-Gonzalezs-Untitled-project-78873039-dd52-4893-9c3a-4b0fd740671e/notebook/Notebook-1-c00ccd2e2c2148768a247829b6b06873?utm_content=78873039-dd52-4893-9c3a-4b0fd740671e" style="text-decoration:none; color: #0078D7; font-weight: bold; margin-right: 10px;">
+<a target="_blank" href="https://deepnote.com/workspace/Introduction-to-the-Data-Analytics-Concept-7ae93ff6-e4b0-4256-b2f1-850f4e8b66c0/project/Ulises-Gonzalezs-Untitled-project-78873039-dd52-4893-9c3a-4b0fd740671e/notebook/Notebook-1-c00ccd2e2c2148768a247829b6b06873?utm_content=78873039-dd52-4893-9c3a-4b0fd740671e" style="text-decoration:none; color: #0078D7; font-weight: bold; margin-right: 10px;">
+    <img src="https://drive.google.com/uc?export=view&id=1fgBz4S1Z1LriTtdVEa_6ok1jeDpjyx2Y" alt="Abrir Notebook en Deepnote" style="height: 30px; vertical-align: middle; margin-right: 10px;"/>
     Abrir Notebook en Deepnote
 </a>
     <a href="https://drive.google.com/file/d/1KMsX_mUVTS9akmcuvI8Y26Sdyj7E9X2o/view?usp=sharing" target="_blank" style="text-decoration:none;">
