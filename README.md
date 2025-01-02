@@ -1,18 +1,30 @@
-## Repositorio de curso sobre Data Analytics
+# Repositorio de curso sobre **Introduction to the Data Analytics Concept**
 
-Data Analytics (DA) es un campo fundamental que se dedica a la exploración y el análisis de grandes volúmenes de datos para extraer información valiosa sobre el desempeño empresarial pasado. Este análisis permite a las organizaciones obtener una visión clara de sus operaciones históricas, identificar patrones y tendencias, y utilizar estos conocimientos para guiar la planificación y la toma de decisiones estratégicas futuras.
+La asignatura **INTRODUCTION TO THE DATA ANALYTICS CONCEPT** aborda el desafío de cómo organizar y utilizar una cantidad creciente de datos para mejorar la capacidad de toma de decisiones en las organizaciones. En un mundo definido por el Big Data, la computación de alto rendimiento y entornos complejos, esta materia ofrece herramientas y técnicas que permiten transformar datos masivos en información valiosa para la generación de ideas innovadoras. 
 
-El curso de Data Analytics que presentamos está diseñado para proporcionar una comprensión profunda de los métodos avanzados centrados en datos. Estos métodos abarcan las tres direcciones principales de la Business Analytics (BA):
+El curso está diseñado para explorar los conceptos, técnicas, aplicaciones y tendencias emergentes en el análisis de negocio, orientado a futuros profesionales de la gestión empresarial en una amplia gama de industrias. A través de este aprendizaje, los estudiantes adquirirán las habilidades necesarias para analizar y aplicar datos en un entorno digitalizado y global.
 
-- Análisis Descriptivo: Responde a la pregunta "¿Qué pasó?". Se centra en la interpretación de datos históricos para identificar patrones, tendencias y anomalías. Este tipo de análisis es fundamental para entender el contexto y el desempeño pasado de una organización. Utiliza técnicas como la estadística descriptiva, visualización de datos y la elaboración de informes para transformar datos en información comprensible.
+## Objetivos Generales
 
-- Análisis Predictivo: Responde a la pregunta "¿Qué pasará?". Utiliza técnicas estadísticas y de machine learning para hacer predicciones sobre futuros eventos basándose en datos históricos y actuales. Este análisis permite a las organizaciones anticipar tendencias, comportamientos y resultados futuros. Herramientas como modelos de regresión, análisis de series temporales y algoritmos de clasificación son cruciales en esta etapa.
+Al finalizar la asignatura, el estudiante será capaz de:
+- Identificar problemas y oportunidades en el contexto de datos masivos.
+- Analizar datos procedentes de diversas fuentes: texto, audio, numérica e imagen.
+- Desarrollar habilidades interpersonales esenciales para la sociedad de la información: escuchar, argumentar y debatir.
+- Ser crítico y autocrítico en el análisis de información.
+- Aplicar y trabajar autónomamente en la toma de decisiones basadas en datos.
 
-- Análisis Prescriptivo: Responde a la pregunta "¿Qué debería pasar?". Va un paso más allá del análisis predictivo al no solo prever lo que podría suceder, sino también recomendar acciones específicas que podrían afectar esos resultados futuros. Este análisis utiliza técnicas avanzadas de optimización y simulación para proporcionar recomendaciones sobre la mejor manera de manejar posibles escenarios futuros.
+## Objetivos Específicos
 
-El curso aplica estos métodos a diversos casos de negocios para demostrar cómo se puede extraer valor comercial de los datos. Los estudiantes aprenderán a brindar soporte para la toma de decisiones basada en datos y a implementar principios efectivos de gestión de datos. Los casos de estudio abarcarán una variedad de industrias y situaciones, ofreciendo una perspectiva amplia y aplicada del análisis de datos.
+Los estudiantes lograrán:
+- **Comprender la analítica de negocio:** Familiarizarse con conceptos esenciales como análisis estadístico, modelos exploratorios y predictivos, y sistemas de información para identificar oportunidades de valor.
+- **Planificación y liderazgo:** Conocer los fundamentos de la dirección de empresas, incluyendo planificación estratégica, control de actividades y gestión en áreas funcionales.
+- **Ética y sostenibilidad:** Reconocer dilemas éticos y de sostenibilidad en procesos de toma de decisiones en entornos digitales y globales.
+- **Herramientas estratégicas:** Aplicar herramientas para análisis externo e interno, orientado a la planificación estratégica empresarial en un entorno global.
 
-Los participantes adquirirán habilidades prácticas en el uso de herramientas y software de análisis de datos, desarrollando la capacidad de aplicar estos conocimientos en contextos reales. El curso también abordará temas críticos como la calidad de los datos, la ética en el análisis de datos y las mejores prácticas para la visualización de datos, asegurando que los estudiantes no solo puedan realizar análisis precisos, sino también comunicar sus hallazgos de manera efectiva.
+## Herramientas Utilizadas
+- **SQL:** Para extracción y manipulación de datos desde bases relacionales.
+- **Tableau:** Para la visualización de datos y creación de dashboards interactivos.
+- **Python (Google Colab/Deepnote):** Para modelado avanzado, análisis estadístico y machine learning.
 
 **Instructor:** Ulises Gonzalez ([Rizoma](http://www.rizo.ma/), [Linkedin](https://www.linkedin.com/in/ulisesgonzalez/))
 
@@ -39,9 +51,6 @@ Los participantes adquirirán habilidades prácticas en el uso de herramientas y
 | **Sesión 15: [Proyecto Final y Evaluación](#class-15-final-project-and-evaluation)**           | - Integrar conocimientos en un caso práctico final.<br>- Construir un modelo predictivo en Google Colab y visualizar los resultados en Tableau.                                                                 |
 
 ---
-
-Este formato es ideal para GitHub y compatible con **Binder**. Si necesitas ejemplos específicos o links para cada sesión, también puedo ayudarte a estructurarlos.
-### Antes de que comience el curso
 
 * Puedes dar una mirada al [data analyst roadmap](https://roadmap.sh/data-analyst)
 * Para usar [google colaboratory](https://colab.research.google.com/)requerirás un correo de gmail para acceder. Si no dispones de uno lo puedes crear [sin costo aca](https://workspace.google.com/)
