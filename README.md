@@ -81,10 +81,10 @@ Los estudiantes lograrán:
 </div>
 
 
-### Sesión 1: Introducción a Data Analytics
+### Sesión 1: Introducción a la Analítica de Datos
 
 * Bienvenida a la formación
-* Resumen del curso([presentación](https://docs.google.com/document/d/1tC-gSUFGPTP3rVlfKEkB6fhAfKXqRTnR2xMPfupy5IY/edit?usp=sharing))
+* Resumen del curso([presentación](https://docs.google.com/document/d/1-0Wz2bCCMVihkSJXFzR1lJp-3zVObPvVoaQIkRQgH10/edit?usp=sharing))
 * Introducción a Data Analytics ([lectura](bibliografia/Sesion 1/Python Data Analitics -fragmento.pdf))
 * Tipos de datos([lectura](https://medium.com/@diego.coder/variables-y-tipos-de-datos-en-python-str-int-bool-etc-45ac17e6acc7))
 * Dispones de las siguientes fuentes de datos públicos si deseas practicar [fuentes de datos publicos](project/public_data.md)
