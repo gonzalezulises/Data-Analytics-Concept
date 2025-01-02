@@ -1,6 +1,6 @@
 # Repositorio de curso sobre **Introduction to the Data Analytics Concept**
 
-La asignatura **INTRODUCTION TO THE DATA ANALYTICS CONCEPT** aborda el desafío de cómo organizar y utilizar una cantidad creciente de datos para mejorar la capacidad de toma de decisiones en las organizaciones. En un mundo definido por el Big Data, la computación de alto rendimiento y entornos complejos, esta materia ofrece herramientas y técnicas que permiten transformar datos masivos en información valiosa para la generación de ideas innovadoras. 
+La asignatura **Introduction to the Data Analytics Concept** aborda el desafío de cómo organizar y utilizar una cantidad creciente de datos para mejorar la capacidad de toma de decisiones en las organizaciones. En un mundo definido por el Big Data, la computación de alto rendimiento y entornos complejos, esta materia ofrece herramientas y técnicas que permiten transformar datos masivos en información valiosa para la generación de ideas innovadoras. 
 
 El curso está diseñado para explorar los conceptos, técnicas, aplicaciones y tendencias emergentes en el análisis de negocio, orientado a futuros profesionales de la gestión empresarial en una amplia gama de industrias. A través de este aprendizaje, los estudiantes adquirirán las habilidades necesarias para analizar y aplicar datos en un entorno digitalizado y global.
 
@@ -39,7 +39,7 @@ Los estudiantes lograrán:
 | **Sesión 3: [Estadística Descriptiva con SQL y Tableau](#class-3-descriptive-statistics-in-sql-and-tableau)** | - Calcular estadísticas descriptivas básicas con SQL y visualizarlas en Tableau.<br>- Utilizar funciones como COUNT, AVG, MIN, MAX y SUM en SQL para explorar los datos.                                          |
 | **Sesión 4: [Tidy Data en SQL y Tableau](#class-4-tidy-data-with-sql-and-tableau)**            | - Comprender el concepto de tidy data y cómo estructurar datos desordenados.<br>- Realizar transformaciones de datos con pivot y melt en SQL y Tableau.                                                         |
 | **Sesión 5: [Análisis Exploratorio con Tableau](#class-5-exploratory-analysis-with-tableau)**  | - Realizar análisis exploratorios de datos (EDA) en Tableau para descubrir patrones y relaciones.<br>- Crear dashboards exploratorios con gráficos interactivos.                                                |
-| **Sesión 6: [Análisis Exploratorio con SQL](#class-6-exploratory-analysis-with-sql)**          | - Aplicar JOINs y subconsultas para explorar relaciones entre tablas.<br>- Generar insights utilizando funciones avanzadas de SQL.                                                                               |
+| **Sesión 6: [Análisis Exploratorio con SQL](#class-6-exploratory-analysis-with-sql)**          | - Aplicar JOINs y subconsultas para explorar relaciones entre tablas.<br>- Generar insights utilizando funciones avanzadas de SQL. <br> - Introducción a python para analítica de datos.                                                                               |
 | **Sesión 7: [Modelos Predictivos I](#class-7-predictive-models-i)**                            | - Introducir conceptos de predicción temporal y aprendizaje supervisado.<br>- Visualizar tendencias y patrones temporales en Tableau.                                                                           |
 | **Sesión 8: [Modelos Predictivos con Scikit-learn](#class-8-predictive-models-with-scikit-learn)** | - Construir modelos básicos de árboles de decisión con Scikit-learn.<br>- Evaluar métricas clave como precisión y recall en Google Colab.                                                                       |
 | **Sesión 9: [Random Forest y SVM](#class-9-random-forest-and-svm)**                            | - Comprender la diferencia entre Random Forest y Support Vector Machines (SVM).<br>- Implementar y comparar modelos de clasificación en Scikit-learn.                                                          |
@@ -54,13 +54,12 @@ Los estudiantes lograrán:
 
 * Puedes dar una mirada al [data analyst roadmap](https://roadmap.sh/data-analyst)
 * Para usar [google colaboratory](https://colab.research.google.com/)requerirás un correo de gmail para acceder. Si no dispones de uno lo puedes crear [sin costo aca](https://workspace.google.com/)
-* Para usar Anaconda no necesitarás algo adicional ya que es cloud, puedes crear una [cuenta acá](https://anaconda.cloud/)
-* Podrás usar también el notebook de Kaggle, puedes [crear una cuenta acá](https://www.kaggle.com/#)
-* Puedes ir familiarizándote con Jupyter Notebook en este archivo
+* Para usar deepnote no necesitarás algo adicional ya que es cloud, puedes crear una [cuenta acá](https://deepnote.com/)
 
 
-### Recursos adicionales de práctica
+### Recursos opcionales de práctica
 
+Si quieres desarrollar competencias en python dispones de estos recursos:
 * [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Buen material para principiantes, incluidos toneladas de ejercicios en el navegador.
 * [Dataquest](https://www.dataquest.io): Utiliza ejercicios interactivos para enseñar a Python en el contexto de la ciencia de datos.
 * [Google's Python Class](https://developers.google.com/edu/python/): Un poco más avanzado, incluidas horas de videos útiles de conferencias y ejercicios descargables (con soluciones).
